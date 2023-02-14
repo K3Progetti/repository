@@ -1,7 +1,7 @@
 <?php
 
 
-namespace K3\Repository;
+namespace Esc\Repository;
 
 
 use Doctrine\Bundle\DoctrineBundle\Repository\ServiceEntityRepository;

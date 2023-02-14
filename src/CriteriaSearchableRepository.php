@@ -1,6 +1,6 @@
 <?php
 
-namespace K3\Repository;
+namespace Esc\Repository;
 
 use Symfony\Component\HttpFoundation\Session\Attribute\AttributeBag;
 

@@ -1,11 +1,11 @@
 {
-    "name": "K3Progetti/repository",
+    "name": "k3progetti/repository",
     "type": "library",
     "description": "Symfony base repository methods",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "K3\\Repository\\": "src"
+            "Esc\\Repository\\": "src"
         }
     },
     "require": {
